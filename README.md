@@ -14,13 +14,13 @@ Code by:                    Geoffroey-Allen S. Franklin, MBA, BS, AAS, AdeC, MCP
 Created: 2016-Jan-14
 
 # Change Log / Milestones
-2016-Jan-14 - Concept for data analysys for 4D Postural Imaging Landmark Variability (SRI)
-
+```
 2016-Jan-29 - Version 1.0 release. Initial release.
-
-2016-Feb-10 - Version 1.1 release. Added motion flag.
-
+2016-Feb-09 - Version 1.1 release. Corrected bug #ZS-001: Remove hard count for average->file write to float number based on Day change.
+2016-Feb-10 - Version 1.2 release. Added motion flag.
+2016-Jul-13 - Version 1.3 release. Added variable PlumbResult_8001_WeissLAPos_T12.
 2017-Nov-09 - Moved to Github repo.
+```
 
 
 # Publications
