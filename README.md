@@ -2,7 +2,7 @@
 4D Postural Extraction Code
 
 # Cite
-Franklin, G. A.. (2016). 4D Postural Extraction Code [Computer software]. Kirksville, MO: Still Research Institute at A.T. Still University.
+Geoffroey-Allen Franklin. (2016, July 13). 4D Postural Extraction Code [Computer software]. (Version 1.3.0). Zenodo. http://doi.org/10.5281/zenodo.1407283
 
 # Credits
 Principle Investigator:     Brian Degenhardt, DO
