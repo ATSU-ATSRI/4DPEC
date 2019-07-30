@@ -14,12 +14,10 @@ Geoffroey-Allen Franklin. (2016, July 13). 4D Postural Extraction Code [Computer
 
 # Credits
 Principle Investigator:     Brian Degenhardt, DO
-
 Instrumentation:            Zane Starks, MS
-
 Code by:                    Geoffroey-Allen S. Franklin, MBA, BS, AAS, AdeC, MCP
-
 Created: 2016-Jan-14
+
 
 # Change Log / Milestones
 ```
@@ -30,6 +28,10 @@ Created: 2016-Jan-14
 2017-Nov-09 - Moved to Github repo.
 2019-Jul-30 - Version 2.0 release. Adds gathering of patient data and remarks. 
 ```
+
+
+# Dependencies
+PHP version 7.3.6.
 
 
 # Publications
