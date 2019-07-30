@@ -2,7 +2,15 @@
 4D Postural Extraction Code
 
 # Cite
-Geoffroey-Allen Franklin. (2016, July 13). 4D Postural Extraction Code [Computer software]. (Version 1.3.0). Zenodo. http://doi.org/10.5281/zenodo.1407283
+Version 2.0
+Geoffroey-Allen Franklin. (2019, July 30). 4D Postural Extraction Code [Computer software]. (Version 2.0.0). Zenodo.
+
+Version 1.3.0
+Geoffroey-Allen Franklin. (2016, July 13). 4D Postural Extraction Code [Computer software]. (Version 1.3.0). Zenodo. [http://doi.org/10.5281/zenodo.1407283]
+
+All Versions / Concept
+Geoffroey-Allen Franklin. (2016, July 13). 4D Postural Extraction Code [Computer software]. Zenodo. [https://doi.org/10.5281/zenodo.1407282]
+
 
 # Credits
 Principle Investigator:     Brian Degenhardt, DO
@@ -20,6 +28,7 @@ Created: 2016-Jan-14
 2016-Feb-10 - Version 1.2 release. Added motion flag.
 2016-Jul-13 - Version 1.3 release. Added variable PlumbResult_8001_WeissLAPos_T12.
 2017-Nov-09 - Moved to Github repo.
+2019-Jul-30 - Version 2.0 release. Adds gathering of patient data and remarks. 
 ```
 
 
